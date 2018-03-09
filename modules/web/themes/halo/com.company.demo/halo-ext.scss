@@ -1,0 +1,6 @@
+@import "../fonts/icomoon-font";
+
+/* Define your theme modifications inside next mixin */
+@mixin com_company_demo-halo-ext {
+  @include icomoon-style;
+}
